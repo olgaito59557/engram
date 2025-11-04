@@ -7,3 +7,4 @@ test:
 # clarify the control flow
 # guard against empty input
 # drop an unused branch
+# match the style used in the rest of the module
